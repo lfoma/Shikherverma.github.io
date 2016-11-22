@@ -1,18 +1,16 @@
 # Site settings
-title: My Territory
+title: Открытый веб
 blog_title: My Territory
 header-img: img/home-bg.jpg
-email: root@shikherverma.com
-copyright_name: ShikherVerma
-description: "Online Territory of Shikher Verma"
+email: mail@foma.me
+copyright_name: lfoma
+description: "Внеси свой вклад в развитие мира"
 baseurl: "" #base url is for when the site is not at the root but at some subdirectory.
-url: http://shikherverma.com #only used in disque comments for now
-disqus_url: shikherverma.com # disque comments are broken if you send http:// along with url
-github_username:  shikherverma
-facebook_username:  shikherverma1
-stackoverflow_username: 6764571/shikher-verma
-collections:
-  - portfolio
+url: https://we-are.club #only used in disque comments for now
+disqus_url: we-are.club # disque comments are broken if you send http:// along with url
+github_username:  lfoma
+facebook_username:  
+stackoverflow_username: 
 
 # used to estimate reading time
 wpm: 150
